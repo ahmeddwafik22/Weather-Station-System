@@ -1,1 +1,2 @@
 # Weather-Station-System
+Developed a flutter app where anyone can monitor the weather state at any time anywhere by the app. Used components (temperature and humidity sensor, pressure sensor, water sensor, esp32, Arduino). Connected the app to firebase database to get retrieve data in real time. Storing data every 10 seconds to analyze it later. Built a deep neural network model for predicting the weather condition from the features getting from the sensors. Scraping weather data from website to train the model on it.
